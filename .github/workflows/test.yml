@@ -34,4 +34,4 @@ jobs:
 
       # Run tests
       - name: Run tests
-        run: jest
+        run: npm test
